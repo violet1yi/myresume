@@ -24,7 +24,10 @@
 
 我负责了订单管理中的订单合并，收货地址管理前端页面编写，支付系统中的paypal接口对接。 采用的技术是vuejs+html的技术。
 
-在开发业务的过程中，我学会了前后端开发框架的搭建（springboot+mybatic+oracle/mysql）+vue js 。 了解和部署了mybatic generator 。 
+在开发业务的过程中，我学会了前后端开发框架的搭建（springboot+mybatic+oracle/mysql）+vue js 。 了解和部署了mybatic generator 。
+
+
+
 
 
 ### 采购订单，退换货管理系统
